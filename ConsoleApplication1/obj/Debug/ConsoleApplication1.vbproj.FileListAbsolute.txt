@@ -1,0 +1,11 @@
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Dev\Games\GL1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
